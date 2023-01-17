@@ -13,4 +13,7 @@
 - Mescla de linhas e colunas com as propriedades grid-columns: span n e grid-rows: span n;
 - As propriedades column-gap, row-gap e gap;
 - Como utilizar o valor auto para tamanho de colunas;
-- Planejar o uso de grid no desenvolvimento.
+- Planejar o uso de grid no desenvolvimento;
+- Como evoluir o layout para desktop com grid;
+- A função repeat();
+- Alterar a posição de elementos com as propriedades grid-row e grid-column;
