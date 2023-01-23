@@ -1,4 +1,4 @@
-# O que aprendi até o momento.
+# O que aprendi neste curso.
 
 - O que é um flex-container;
 - As propriedades de posicionamento justify-content e align-items;
@@ -17,3 +17,4 @@
 - Como evoluir o layout para desktop com grid;
 - A função repeat();
 - Alterar a posição de elementos com as propriedades grid-row e grid-column;
+- As vantagens e utilização de grid areas.
